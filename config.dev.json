@@ -29,7 +29,7 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "‌♡your baby♡",
-  "prefix": "?",
+  "prefix": "-",
   "database": {
     "type": "mongodb",
     "uriMongodb": "mongodb+srv://shipuaimirai:chitron%402448766@shipuaimiraibot.nwesgqa.mongodb.net/?retryWrites=true&w=majority&appName=ShiPuAiMiraiBot",
@@ -40,7 +40,7 @@
   "timeZone": "Asia/Dhaka",
   	"credentials": {
     "gmailAccount": {
-      "email": "fariasdipto@gmail.com",
+      "email": "jasperjayjavellana@gmail.com",
       "clientId": "639376163522-4dni5kd9itegv7taj8ni468m3elklq9o.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04HLkSBjlKUswCgYIARAAGAQSNgF-L9IrDjcUYXfwJVYMT4akO65jnka2hTY6E8UCsBrBAFrbHAnkiKyKylFIdk144diFQROjWA"
